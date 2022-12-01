@@ -7,7 +7,6 @@ A community-built list of resources coming out of [Normconf](https://normconf.co
 
 
 ## Awesome Official Normconf
----
 
 + Awesome Lightning Talks
 + Awesome Speaker Decks
@@ -15,7 +14,6 @@ A community-built list of resources coming out of [Normconf](https://normconf.co
 
 
 ## Awesome Blogs and Newsletters
----
 
 + https://github.com/AlexMolas/ml-blogs
 
