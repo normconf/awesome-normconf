@@ -6,12 +6,16 @@
 A community-built list of resources coming out of [Normconf](https://normconf.com/) Slack
 
 
-## Awesome Official Normconf
+## Awesome Official NormConf
 
 + Awesome Lightning Talks
 + Awesome Speaker Decks
 + Awesome NormConf Talks
 
+## Awesome Unofficial NormConf
+
++ Awesome Hallway Talks
+  + [The Best Data Pipeline is the One You Do By Hand]([url](https://youtu.be/sHD1O1L2Uu4)) by [Taylor Murphy]([url](https://twitter.com/tayloramurphy))
 
 ## Awesome Blogs and Newsletters
 
