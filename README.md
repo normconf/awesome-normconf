@@ -15,7 +15,7 @@ A community-built list of resources coming out of [Normconf](https://normconf.co
 ## Awesome Unofficial NormConf
 
 + Awesome Hallway Talks
-  + [The Best Data Pipeline is the One You Do By Hand]([url](https://youtu.be/sHD1O1L2Uu4)) by [Taylor Murphy]([url](https://twitter.com/tayloramurphy))
+  + [The Best Data Pipeline is the One You Do By Hand](https://youtu.be/sHD1O1L2Uu4) by [Taylor Murphy](https://twitter.com/tayloramurphy)
 
 ## Awesome Blogs and Newsletters
 
