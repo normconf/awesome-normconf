@@ -21,4 +21,8 @@ A community-built list of resources coming out of [Normconf](https://normconf.co
 
 + https://github.com/AlexMolas/ml-blogs
 
+## Awesome NormConf Repositories
+
++ https://github.com/luis-mueller/normconf-2022
+
 
