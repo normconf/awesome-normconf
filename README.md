@@ -23,6 +23,6 @@ A community-built list of resources coming out of [Normconf](https://normconf.co
 
 ## Awesome NormConf Repositories
 
-+ https://github.com/luis-mueller/normconf-2022
++ [Metrics Are Born at Sea But Stored In the Cloud](https://www.youtube.com/watch?v=JANC6DNJC0o) comes with a [repository](https://github.com/luis-mueller/normconf-2022) for DIY metric logging and plotting.
 
 
