@@ -3,7 +3,7 @@
 
 <img src="NormConf_Logo.png" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="400" height="400" />
 
-A community-built list of resources coming out of [Normconf](https://normconf.com/) Slack
+A community-built list of resources coming out of [NormConf](https://normconf.com/) Slack
 
 
 ## Awesome Official NormConf
@@ -16,7 +16,7 @@ A community-built list of resources coming out of [Normconf](https://normconf.co
 |Anna Godwin         |  [Video](https://www.youtube.com/watch?v=rB_yaWEHhtM)          |  [Slides](https://github.com/annagodwin/normconf-intro-pdf/blob/main/NormConf%20Intro%20PDF%20Extraction.pdf)  / [Code Snippets](https://github.com/annagodwin/normconf-intro-pdf/blob/main/README.md)    |
 |Jenny Bryan | [Video](https://youtu.be/ES1LTlnpLMk) |  [Slides + more](https://github.com/jennybc/how-to-name-files) |
 |Zachary Chetchavat|[Video](https://www.youtube.com/watch?v=HF0F4H8BNsE)|[Slides](https://docs.google.com/presentation/d/1lK-fz0t154UkB5NoyKmNFArbDfHGmGTtgE-5GifveQQ/edit?usp=sharing)|
-|         |            |        |
+|[Amanda Alvarez](https://gecky.me/about/)         |[Video](https://www.youtube.com/watch?v=Z-xnFdtCL0o)            |[Transcript](https://gecky.me/posts/lightning-talk/)        |
 |         |            |        |
 |         |            |        |
 |         |            |        |
