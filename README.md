@@ -10,7 +10,7 @@ A community-built list of resources coming out of [Normconf](https://normconf.co
 
 ### Awesome Lightning Talks 
 
-| Speaker | Talk Video | Slides | Other
+| Speaker | Talk Video | Slides | 
 |---------|------------|--------|
 |Randy Au         |  [Video](https://youtu.be/-6sS3wVYpM8)          | [Slides](https://docs.google.com/presentation/d/1hmtZ1Hpm2M4lEEEHfVWl6-zX_aVhdjQQ5JxK8dUzqPM/edit?usp=sharing)        |
 |Anna Godwin         |  [Video](https://www.youtube.com/watch?v=rB_yaWEHhtM)          |  [Slides](https://github.com/annagodwin/normconf-intro-pdf/blob/main/NormConf%20Intro%20PDF%20Extraction.pdf)  / [Code Snippets](https://github.com/annagodwin/normconf-intro-pdf/blob/main/README.md)    |
