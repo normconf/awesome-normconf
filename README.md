@@ -17,7 +17,7 @@ A community-built list of resources coming out of [NormConf](https://normconf.co
 |Jenny Bryan | [Video](https://youtu.be/ES1LTlnpLMk) |  [Slides + more](https://github.com/jennybc/how-to-name-files) |
 |Zachary Chetchavat|[Video](https://www.youtube.com/watch?v=HF0F4H8BNsE)|[Slides](https://docs.google.com/presentation/d/1lK-fz0t154UkB5NoyKmNFArbDfHGmGTtgE-5GifveQQ/edit?usp=sharing)|
 |[Amanda Alvarez](https://gecky.me/about/)         |[Video](https://www.youtube.com/watch?v=Z-xnFdtCL0o)            |[Transcript](https://gecky.me/posts/lightning-talk/)        |
-|         |            |        |
+|[Victor Geislinger](https://github.com/MrGeislinger) |[Video](https://www.youtube.com/watch?v=vRhe4QYrXfM) |[Slides](https://docs.google.com/presentation/d/1Sq-zKNoDYf3AWM6qaUnFmeue5EsKJAKfPm-EZlG7TnI/edit?usp=sharing)/[Code Snippets](https://gist.github.com/MrGeislinger/45253dc84d61c48c6a63abc8acb423aa) |
 |         |            |        |
 |         |            |        |
 |         |            |        |
