@@ -47,4 +47,6 @@ A community-built list of resources coming out of [NormConf](https://normconf.co
 
 + [Metrics Are Born at Sea But Stored In the Cloud](https://www.youtube.com/watch?v=JANC6DNJC0o) comes with a [repository](https://github.com/luis-mueller/normconf-2022) for DIY metric logging and plotting.
 
+## Awesome NormConf Extras
 
++ [Bingo Card Template](https://docs.google.com/document/d/16DbU2xWBabk-R2FqmpAlOJoPqEnToxQ5qDJiVQu9NKI/edit?usp=sharing)
