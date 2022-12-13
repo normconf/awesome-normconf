@@ -20,7 +20,7 @@ A community-built list of resources coming out of [NormConf](https://normconf.co
 |[Victor Geislinger](https://github.com/MrGeislinger) |[Video](https://www.youtube.com/watch?v=vRhe4QYrXfM) |[Slides](https://docs.google.com/presentation/d/1Sq-zKNoDYf3AWM6qaUnFmeue5EsKJAKfPm-EZlG7TnI/edit?usp=sharing)/[Code Snippets](https://gist.github.com/MrGeislinger/45253dc84d61c48c6a63abc8acb423aa) |
 | Lucila Stancato        |  [Video](https://www.youtube.com/watch?v=gYk32uHcL6E)           |    [Slides](https://github.com/normconf/awesome-normconf/blob/main/slides/lightning-talk-lucila-stancato.pdf)    |
 | Georg Meyer | [Video](https://youtu.be/B6H4ZFawoNE) |        |
-|         |            |        |
+|[Nicolò Giso](https://www.nicologiso.com/essays/bio/)         | [Video](https://www.youtube.com/watch?v=_nvgKmedPfw)           | [Slides](https://drive.google.com/file/d/1T7iZcSIT0NNBZoAr9hAPXfGpr3aZJZDF/view?usp=sharing)        |
 |         |            |        |
 |         |            |        |
 |         |            |        |
