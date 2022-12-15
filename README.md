@@ -42,14 +42,17 @@ A community-built list of resources coming out of [NormConf](https://normconf.co
 ## Awesome Blogs and Newsletters
 
 + https://github.com/AlexMolas/ml-blogs
++ https://koaning.io
++ https://calmcode.io
 
 ## Awesome NormConf Repositories
 
 + [Metrics Are Born at Sea But Stored In the Cloud](https://www.youtube.com/watch?v=JANC6DNJC0o) comes with a [repository](https://github.com/luis-mueller/normconf-2022) for DIY metric logging and plotting.
++ [Doubtlab](https://github.com/koaning/doubtlab/) helps you find doubtful labels in training data. 
 
 ## Awesome NormConf Extras
-
 
 + [Bingo Card Template](https://docs.google.com/document/d/16DbU2xWBabk-R2FqmpAlOJoPqEnToxQ5qDJiVQu9NKI/edit?usp=sharing)
 + [Interest Level Planning Tool for Talks](https://docs.google.com/spreadsheets/d/1IFB8oEnyceZQCCubdD5k4ToARZ4nV822alHFSl9nMus/edit?usp=sharing)
 + [NormConf Bingo Streamlit App](https://normconf-bingo.streamlit.app/)
++ [How to use a screenbrush during tech talks](https://calmcode.io/content/draw.html)
