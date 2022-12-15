@@ -44,6 +44,7 @@ A community-built list of resources coming out of [NormConf](https://normconf.co
 + https://github.com/AlexMolas/ml-blogs
 + https://koaning.io
 + https://calmcode.io
++ https://pythonspeed.com/docker/
 
 ## Awesome NormConf Repositories
 
