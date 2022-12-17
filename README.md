@@ -38,6 +38,7 @@ A community-built list of resources coming out of [NormConf](https://normconf.co
 
 + Awesome Hallway Talks
   + [The Best Data Pipeline is the One You Do By Hand](https://youtu.be/sHD1O1L2Uu4) by [Taylor Murphy](https://twitter.com/tayloramurphy)
+  + [Stop using Random Splits!](https://youtu.be/Wyazme2GOlA) by [Jesper Dramsch](https://tech.lgbt/@jesper)
 
 ## Awesome Blogs and Newsletters
 
